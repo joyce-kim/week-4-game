@@ -1,0 +1,85 @@
+body {
+	font-family: helvetica;
+	text-align: center;
+}
+
+h1 {
+	font-size: 50px;
+	font-weight: bold;
+	margin-bottom: 20px;
+}
+
+#random-box {
+	padding: 20px;
+	margin: 50px;
+
+	font-weight: bold;
+	font-size: 25px;
+
+	border-style: dotted;
+	border-color: #51B3A3;
+	border-width: 5px;
+}
+
+#wins-box {
+	padding: 20px;
+	margin: 50px;
+	float: left;
+
+	font-size: 25px;
+
+	border-style: dotted;
+	border-color: #89C16F;
+	border-width: 5px;
+}
+
+#losses-box {
+	padding: 20px;
+	margin: 50px;
+	float: left;
+
+	font-size: 25px;
+
+	border-style: dotted;
+	border-color: #ED5D61;
+	border-width: 5px;
+}
+
+#your-box {
+	padding: 20px;
+	margin: 50px;
+
+	font-size: 25px;
+
+	border-style: dotted;
+	border-color: #EE8432;
+	border-width: 5px;
+}
+
+.blue-button {
+	width: 100px;
+	height: 100px;
+	background-image: url(../images/blue-dot.jpg);
+	clear: left;
+}
+
+.green-button {
+	width: 100px;
+	height: 100px;
+	background-image: url(../images/green-dot.jpg);
+	clear: left;
+}
+
+.pink-button {
+	width: 100px;
+	height: 100px;
+	background-image: url(../images/pink-dot.jpg);
+	clear: left;
+}
+
+.orange-button {
+	width: 100px;
+	height: 100px;
+	background-image: url(../images/orange-dot.jpg);
+	clear: left;
+}

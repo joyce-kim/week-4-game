@@ -24,7 +24,6 @@ h1 {
 #wins-box {
 	padding: 20px;
 	margin: 50px;
-	float: left;
 
 	font-size: 25px;
 
@@ -36,7 +35,6 @@ h1 {
 #losses-box {
 	padding: 20px;
 	margin: 50px;
-	float: left;
 
 	font-size: 25px;
 

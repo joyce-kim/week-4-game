@@ -51,7 +51,4 @@ $(document).ready(function() {
 		})
 	}
 
-	// just make sure the randnum is divisible by any one of the dot number values
-	
-
 })
